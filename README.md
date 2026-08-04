@@ -9,8 +9,6 @@
 
 ---
 
-🔭 Currently building **[Salah Times](https://github.com/uzainshah5)**
-
 ---
 
 ### 🔗 Connect
