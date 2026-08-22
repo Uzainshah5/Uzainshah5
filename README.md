@@ -1,4 +1,4 @@
-# Hi, I'm Uzain Ahmad Shah
+# Uzain Ahmad Shah
 
 <h3 align="center">Code. Design. Build. Repeat.</h3>
 
