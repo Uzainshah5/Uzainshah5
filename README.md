@@ -53,18 +53,7 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sooty-eight.vercel.app/api?username=uzainshah5&show_icons=true&theme=dark&bg_color=0d0f14&title_color=00e5a0&icon_color=7c6aff&text_color=e8eaf0&border_color=ffffff12"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-sooty-eight.vercel.app/api/top-langs?username=uzainshah5&layout=compact&theme=dark&bg_color=0d0f14&title_color=00e5a0&text_color=e8eaf0&border_color=ffffff12"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+
 
 <p align="center">
   <img
