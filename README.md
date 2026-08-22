@@ -51,27 +51,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=uzainshah5&show_icons=true&theme=dark&bg_color=0d0f14&title_color=00e5a0&icon_color=7c6aff&text_color=e8eaf0&border_color=ffffff12"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs?username=uzainshah5&layout=compact&theme=dark&bg_color=0d0f14&title_color=00e5a0&text_color=e8eaf0&border_color=ffffff12"
- height="165"
- alt="Top Languages"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=uzainshah5&theme=dark&background=0d0f14&ring=00e5a0&fire=7c6aff&currStreakLabel=00e5a0&sideLabels=7a7f94&dates=7a7f94&border=ffffff12"
-    alt="GitHub Streak"
-  />
-</p>
+📊 GitHub Stats
+<p align='center'> <img src='https://github-readme-stats.vercel.app/api?username=uzainshah5&show_icons=true&theme=dark&bg_color=0d0f14&title_color=00e5a0&icon_color=7c6aff&text_color=e8eaf0&border_color=ffffff12' height='165' /> <img src='https://github-readme-stats.vercel.app/api/top-langs?username=uzainshah5&layout=compact&theme=dark&bg_color=0d0f14&title_color=00e5a0&text_color=e8eaf0&border_color=ffffff12' height='165' /> </p> <p align='center'> <img src='https://github-readme-streak-stats.herokuapp.com/?user=uzainshah5&theme=dark&background=0d0f14&ring=00e5a0&fire=7c6aff&currStreakLabel=00e5a0&sideLabels=7a7f94&dates=7a7f94&border=ffffff12' /> </p>
