@@ -3,7 +3,7 @@
 <h3 align="center">Code. Design. Build. Repeat.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Currently+building+Salah+Times" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Currently+building+GLP" alt="Typing SVG" />
 </p>
 
 ---
